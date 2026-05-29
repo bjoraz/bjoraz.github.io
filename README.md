@@ -1,2 +1,2 @@
-# Welcome to my page!
-[[HexTiles]]
+
+# [HexTiles](https://bjoraz.github.io/HexTiles/)
